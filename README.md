@@ -56,3 +56,10 @@ If you share my passion for informatics and education, feel free to explore my r
   <i>"The code is the bridge between imagination and reality."</i><br>
   <b>Benameur Soft - 2026</b>
 </p>
+
+
+--- 
+### 💼 Professional Collaboration | التعاون المهني
+I am available for high-end **Software Engineering** projects, **Informatics Consulting**, and **System Architecture** globally.
+
+[**Contact for Hire**](mailto:benameur.soft@example.com) | [**Support my Mission**]({bmc_url})
